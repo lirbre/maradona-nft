@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/maradona-nft/static/css/main.e3866c45.chunk.css",
+    "main.js": "/maradona-nft/static/js/main.e2428ad7.chunk.js",
+    "main.js.map": "/maradona-nft/static/js/main.e2428ad7.chunk.js.map",
+    "runtime-main.js": "/maradona-nft/static/js/runtime-main.9bbe096d.js",
+    "runtime-main.js.map": "/maradona-nft/static/js/runtime-main.9bbe096d.js.map",
+    "static/js/2.5057183f.chunk.js": "/maradona-nft/static/js/2.5057183f.chunk.js",
+    "static/js/2.5057183f.chunk.js.map": "/maradona-nft/static/js/2.5057183f.chunk.js.map",
+    "index.html": "/maradona-nft/index.html",
+    "static/css/main.e3866c45.chunk.css.map": "/maradona-nft/static/css/main.e3866c45.chunk.css.map",
+    "static/js/2.5057183f.chunk.js.LICENSE.txt": "/maradona-nft/static/js/2.5057183f.chunk.js.LICENSE.txt",
+    "static/media/trophy.355dd3cf.png": "/maradona-nft/static/media/trophy.355dd3cf.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9bbe096d.js",
+    "static/js/2.5057183f.chunk.js",
+    "static/css/main.e3866c45.chunk.css",
+    "static/js/main.e2428ad7.chunk.js"
+  ]
+}
