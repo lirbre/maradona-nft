@@ -22,6 +22,7 @@ const MainPage = () => {
                 </div>
                 <img    
                     className='trophy'
+                    alt='holding a trophy'
                     src={trophy}
                     decoding='async'
                     loading='lazy'

@@ -1,0 +1,30 @@
+.middle-wrapper {
+    height: 100vh;
+    background-color: #90C4F7;
+
+    .middle-images {
+        .maradonaitaly {
+            position: absolute;
+            width: 435px;
+            height: 599px;
+            right: 240px;
+            bottom: -100vh;
+
+            z-index: 5;
+        }
+        .field {
+            position: absolute;
+            width: 885px;
+            height: 549px;
+            right: 0;
+            bottom: -100vh;    
+        }
+        .middle-svg-one {
+            position: absolute;
+            right: 165px;
+            bottom: calc(-100vh + 2px);
+
+            z-index: 10;
+        }
+    }
+}

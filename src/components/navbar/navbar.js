@@ -1,8 +1,13 @@
 import React from 'react';
-
 import './navbar.scss'
 
+import { init } from '../../Web3Client';
+
 const Navbar = () => {
+    const handleClick = () => {
+        init();
+    }
+
     return (
         <header>
             <div className='header-logo'>
@@ -20,7 +25,7 @@ const Navbar = () => {
                 </button>
                 <button
                     className='login'
-                    onClick={() => alert('clicked')}
+                    onClick={() => handleClick()}
                 >
                     Log in
                 </button>
