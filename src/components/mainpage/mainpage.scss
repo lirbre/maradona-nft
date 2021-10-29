@@ -3,7 +3,13 @@
 .main-wrapper {
     height: 100vh;
 
+    background-image: url(../../assets/images/introback.png);
     background-color: #005A8C;
+    background-blend-mode: overlay;
+
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 
     .page-one{
         padding-top: 72px;
@@ -80,8 +86,8 @@
 
         .trophy {
             position: absolute;
+            height: calc(100vh - 72px);
             width: auto;
-            max-height: calc(100vh - 72px);
             right: 180px;
             bottom: 0;
 
@@ -89,8 +95,6 @@
         }
         .circle-wrapper {
             position: absolute;
-            width: 384.08px;
-            height: 384.08px;   
             right: 208px;
             top: calc(53.41px + 72px);   
         }

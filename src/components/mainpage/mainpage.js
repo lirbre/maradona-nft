@@ -28,7 +28,7 @@ const MainPage = () => {
                     loading='lazy'
                 />
                 <div className='circle-wrapper'>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="386" height="385" viewBox="0 0 386 385" fill="none">
+                    <svg xmlns="http://www.w3.org/2000/svg" width="55vh" height="55vh" viewBox="0 0 386 385" fill="none">
                         <circle cx="193.03" cy="192.455" r="192.04" fill="#F7F047"/>
                     </svg>
                 </div>

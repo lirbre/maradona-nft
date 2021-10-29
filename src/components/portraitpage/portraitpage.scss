@@ -52,13 +52,15 @@
 
     font-family: 'Poppins', sans-serif;
 
+    max-width: 100vw;
+
     .portrait-icon {
         .portrait {
             padding: 8px;
             border-radius: 20px;
 
-            height: 312px;
-            width: 256px;
+            height: 44vh;
+            width: 20vw;
         }
     }
     .portrait-price {
